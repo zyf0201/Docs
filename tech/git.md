@@ -54,3 +54,10 @@ git remote add origin [url]
 #例如：
 #git remote add origin 'git@github.com:zyf0201/Docs.git'
 ```
+- 删除原来的密钥
+
+  - macos搜索**Keychain Access.app**
+  - 选择所有项目
+  - 搜索git
+  - 删除旧的凭证
+  - 重新push
