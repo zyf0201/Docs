@@ -61,3 +61,31 @@ git remote add origin [url]
   - 搜索git
   - 删除旧的凭证
   - 重新push
+
+
+### git配置多个账号
+
+首先生成多个密钥对，公钥配置到git仓库，然后根据不同的host配置不同的公钥。
+
+配置ssh配置内容: ~/.ssh/config
+
+```sh
+Host github.com
+AddKeysToAgent yes
+UseKeychain yes
+IdentityFile ~/.ssh/id_rsa.pub
+#IdentityFile ~/.ssh/id_ed25519
+
+Host zyf0201.github.com
+#HostName: github.com
+AddKeysToAgent yes
+UseKeychain yes
+IdentityFile ~/.ssh/id_ed25519.pub
+
+# gitlab user(xxx@xxx.com)
+# 建一个gitlab别名，新建的帐号使用这个别名做克隆和更新
+Host git@gitlab.alibaba-inc.com
+HostName gitlab.alibaba-inc.com
+User yehua.zyf
+IdentityFile ~/.ssh/id_rsa.pub
+```
