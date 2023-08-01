@@ -1,9 +1,15 @@
-<mxfile host="app.diagrams.net" modified="2023-08-01T16:44:48.087Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" version="21.6.6" etag="lRQLy3TExha_PLyRsab6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-01T16:58:04.835Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="D3wJDOMN2DJIe-IqHpZ5" version="21.6.6" type="github">
   <diagram name="第 1 页" id="xLccCOGR0xRDpFdZ9tEq">
-    <mxGraphModel>
+    <mxGraphModel dx="2586" dy="1430" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFFFF" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="tOzPQYHfWo46zYX24eFK-1" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://uploads-ssl.webflow.com/5b105a0c66f2f636c7884a17/64063dbcad97bd421b437096_chatgpt.jpg;" vertex="1" parent="1">
+          <mxGeometry x="99" y="110" width="630" height="383.25" as="geometry" />
+        </mxCell>
+        <mxCell id="tOzPQYHfWo46zYX24eFK-4" value="&lt;div style=&quot;border-color: var(--border-color); font-size: 34px;&quot;&gt;&lt;font style=&quot;font-size: 34px;&quot;&gt;介绍：&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color); font-size: 34px;&quot;&gt;&lt;font style=&quot;font-size: 34px;&quot;&gt;ChatGPT是OpenAI开发的人工智能聊天机器人程序，于2022年11月推出。该程序使用基于GPT-3.5、GPT-4架构的大型语言模型并以强化学习训练。&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color); font-size: 34px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color); font-size: 34px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;作用：&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color); font-size: 34px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;ChatGPT目前仍以文字方式互动，而除了可以用人类自然对话方式来互动，&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;还可以用于甚为复杂的语言工作，&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;包括自动生成文本、自动问答、自动摘要等多种任务。&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="109" y="560" width="620" height="450" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
